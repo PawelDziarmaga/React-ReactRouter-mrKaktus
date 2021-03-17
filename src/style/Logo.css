@@ -1,0 +1,8 @@
+div.logo img:first-child{
+    height: 20vh;
+    
+}
+div.logo img{
+    height: 10vh;
+    padding: 1vh 10vh;
+}

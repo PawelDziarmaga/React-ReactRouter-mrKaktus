@@ -1,7 +1,8 @@
 import '../style/App.css';
 import React from 'react'
 import {BrowserRouter as Router} from 'react-router-dom';
-import Navigation from "./Navigation";
+import NavigationOne from "./NavigationOne";
+import NavigationTwo from "./NavigationTwo";
 import Logo from "./Logo";
 import Main from "./Main";
 import Footer from "./Footer";
@@ -14,7 +15,8 @@ class App extends React.Component {
       <Router>
       <div className="app">
         <nav>
-          {<Navigation />}
+          {<NavigationOne />}
+          {<NavigationTwo />}
         </nav>
 
         <div className="logo">
