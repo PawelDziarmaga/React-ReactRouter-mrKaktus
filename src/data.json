@@ -1,0 +1,60 @@
+{
+    "grubosz":{
+        "name": "Grubosz",
+        "firstShortInfo": "Grubosz jajowaty (Crassula ovata) zwany również jako drzewko szczęścia jest rośliną doniczkową. Charakteryzuje się płaskimi, mięsistymi i błyszczącymi liśćmi",
+        "secondShortInfo": "Podobnie do kaktusów czy aloesu Grubosz gromadzi wode w łodydze oraz w liściach. W naturalnym środowisku może osiągnąć nawet do 4 metrów.",
+        
+        "data":{
+            "lighting": "jasne i słoneczne miejsce lecz pozbawione bezpośredniego słońca.",
+            "temperature": "najlepiej rośnie w temperaturze 20-22°C",
+            "watering": "obficie lecz rzadko, tylko wtedy gdy ziemia przeschnie, Grubosza lepiej przesuszyć niż przelać.",
+            "flowerSoil": "podłoże powinno być piaszczysto-gliniastego z dodatkiem próchnicy lecz sprawdzi się również ziemia uniwersalna.",
+            "fertilizer": "grubosza nawozimy umiarkowanie, wiosną nawozem długodziałającym.",
+            "air": "lubią suche powietrze, nie należy zraszać liści"
+        },
+        "curiosities":{
+            "one": "Wszystkie określenia, nazwy Drzewka Szczęścia na całym świecie są kojarzone z pomyślnością, szczęściem lub fortuną, np. angielskie Money Plant lub Dollar Plant. Na Dalekim Wschodzie określana jako Jade Plant (jade to amulet przypominający liście grubosza).",
+            "two": "Grubosz wymaga przycinania. Przycinanie powinno być uzależnione od wysokości jaką chcemy osiągnąć, lecz należy pamiętać, że przycinanie grubosza wpływa na zagęszczenie liści.",
+            "there": "Pochodzi z terenów Afryki Południowej."
+        }
+    },
+    "fikus":{
+        "name": "Fikus",
+        "firstShortInfo": "Fikus microcarpa, inaczej Ficus tępy zwany również jako Ficus ginseng charakteryzuje się korzeniami powietrznymi oraz zgrubiałymi pędami pokrymi brunatną, czasami pękającą korą na których rozwijają się cienkie gałązki, pokryte ciemnozielonymi, błyszczącymi liśćmi.",
+        "secondShortInfo": "Ficus ginseng prezentuje się bardzo efektownie i może swym oryginalnym wyglądem konkurować z typowymi drzewkami bonsai, choć Ficus nie jest typowym bonsai, lecz rośliną na nie stylizowaną.",
+        "data":{
+            "lighting": "lubi jasne miejsca lecz osłonięte przed bezpośrednim promieniami słońca.",
+            "temperature": "temperatura w okolicach ok. 20°C, roślina bardzo źle znosi wahania temperatur, nie toleruje również przeciągów.",
+            "watering": "systematyczne lecz umiarkowane do dwóch razy w tygodniu warto go też zraszać. Ficus nie znosi zbyt mokrego, ani suchego podłoża. Ziemia w doniczce powinna być lekko wilgotna. Zimą gdy aktywność rośliny spada wystarczy podlewać raz w tygodniu.",
+            "flowerSoil": "roślina lubi żyzną glebę, lecz nie musi ona być specjalna wystarczy uniwersalna ziemia do kwiatów lub ziemia próchniczno - torfowa o odczynie lekko kwaśnym.",
+            "fertilizer": "w okresie wiosennym można dodać wieloskładnikowego nawozu.",
+            "air": "ficus podwyższoną wilgotność powietrza.",
+            "care": "ficusa najlepiej co 2 tygodnie zrosić oraz przetrzeć liście z kurzu. Ficus nie lubi również zmiany miejsca. Doniczka nie powinna być przekręcana, ani też ustawiana w innym miejscu."
+        },
+        "curiosities":{
+            "one": "Ficus jest rośliną prostą w uprawie, stare chińskie przysłowie mówi: 'Jeśli zabiłeś Fikusa to musiało ci na tym zależeć'",
+            "two": "Gdy Fikus gubi liście ma niewłaściwe warunki, nie należy się tym jednak przejmować gdy zaczniesz znowu o niego dbać, powinien szybko wrócić do formy.",
+            "there": "Jest bardzo odporny na mocne formowanie i przycinanie. Przycinanie pędów powinno być regularne i może odbywać się przez cały rok.",
+            "four": "Zalicza się do rodzaju figowców. Naturalne obszary występowania obejmują Australię, Azję, a także kraje zaliczające się do Zachodnich wybrzeży Afryki."
+        }
+    },
+    "opuncja":{
+        "name": "Opuncja",
+        "firstShortInfo": "Opuncja (Opuntia) charakteryzuje się spłaszczonymi okrągłymi pędami, występują odmiany z kolcami lub bez. Przy odrobinie szczęścia można natrafić na kwitnącą odmianę.",
+        "secondShortInfo": "Występuje około 150 gatunków opuncji, Opuncja figowa jako jeden z gatunków uprawiana jest głównie w celu pozyskiwania owoców zwana również jako Figa Indyjska.",
+        
+        "data":{
+            "lighting": "Opuncja lubi miejsca słoneczne.",
+            "temperature": "temperatura nie może spadać poniżej 15 stopni.",
+            "watering": "powinien być podlewany bardzo oszczędnie gdy ziemia w doniczce stanie się całkiem sucha.",
+            "flowerSoil": "Opuncje lubią podłoże lekkie, piaszczyste. Nadaje się specjalistyczne podłoże do kaktusów i sukulentów.",
+            "fertilizer": "Nawozić można na wiosnę specjalistycznym nawozem do kaktusów",
+            "care": "Opuncja nie jest szczególnie wymagająca w hodowli, wystarczy jej słoneczne miejsce, niezbyt częste podlewanie"
+        },
+        "curiosities":{
+            "one": "Pochodzi z Ameryki Północnej i Południowej.",
+            "two": "Na skutek szybkiego rozrastania się i dziczenia Opuncje a Australi i Afryce uznawane są często za chwasty.",
+            "there": "W procesie ewolucji liście przekształciły się w ciernie w celu zmniejszenia zużycia wody"
+        }
+    }
+}

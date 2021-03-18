@@ -14,8 +14,8 @@ div.app{
 nav{
     padding: 1vh 0;
     flex-basis: 20vh;
-    max-height: 200px;
-    min-height: 100px;
+    max-height: 150px;
+    min-height: 120px;
     width: 100%;
     background-color: #f6f6f6;
     border-bottom: 2px dashed lightgrey;
