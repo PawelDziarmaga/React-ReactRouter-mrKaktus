@@ -4,8 +4,8 @@ import API from "../data.json"
 class Fikus extends React.Component {
     state = {  }
     render() { 
-        const {name, firstShortInfo, secondShortInfo} = API.fikus
-        const {lighting, temperature, watering, flowerSoil, fertilizer, air} = API.fikus.data
+        const {name, firstShortInfo, secondShortInfo} = API.rosliny.fikus
+        const {lighting, temperature, watering, flowerSoil, fertilizer, air} = API.rosliny.fikus.data
         return ( 
            <>
            <h1>{name}</h1>

@@ -2,6 +2,11 @@ import React from 'react'
 import '../style/Main.css';
 import {Route} from 'react-router-dom'
 
+import Rosliny from '../Pages/Rosliny'
+import Kaktusy from '../Pages/Kaktusy'
+import Sukulenty from '../Pages/Sukulenty'
+
+
 import Home from '../Pages/Home'
 import Aloes from '../Pages/Aloes'
 import Fikus from '../Pages/Fikus'
@@ -18,6 +23,10 @@ class Main extends React.Component {
         return ( 
             <>
             <Route path="/" exact component={Home}/>
+            <Route path="/rosliny" exact component={Rosliny}/>
+            <Route path="/kaktusy" exact component={Kaktusy}/>
+            <Route path="/sukulenty" exact component={Sukulenty}/>
+
             <Route path="/rosliny/grubosz" exact component={Grubosz}/>
             <Route path="/rosliny/fikus" exact component={Fikus}/>
             <Route path="/kaktusy/opuncja" exact component={Opuncja}/>

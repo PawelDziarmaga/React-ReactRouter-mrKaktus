@@ -5,8 +5,8 @@ import API from "../data.json"
 class Grubosz extends React.Component {
     state = {  }
     render() { 
-        const {name, firstShortInfo, secondShortInfo} = API.grubosz
-        const {lighting, temperature, watering, flowerSoil, fertilizer, air} = API.grubosz.data
+        const {name, firstShortInfo, secondShortInfo} = API.rosliny.grubosz
+        const {lighting, temperature, watering, flowerSoil, fertilizer, air} = API.rosliny.grubosz.data
         return ( 
            <>
            <h1>{name}</h1>

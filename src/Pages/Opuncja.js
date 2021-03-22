@@ -1,11 +1,11 @@
 import React from 'react'
-
 import API from "../data.json"
+
 class Opuncja extends React.Component {
     state = {  }
     render() { 
-        const {name, firstShortInfo, secondShortInfo} = API.opuncja
-        const {lighting, temperature, watering, flowerSoil, fertilizer, air} = API.opuncja.data
+        const {name, firstShortInfo, secondShortInfo} = API.kaktusy.opuncja
+        const {lighting, temperature, watering, flowerSoil, fertilizer, air} = API.kaktusy.opuncja.data
         return ( 
            <>
            <h1>{name}</h1>

@@ -1,60 +1,121 @@
 {
-    "grubosz":{
-        "name": "Grubosz",
-        "firstShortInfo": "Grubosz jajowaty (Crassula ovata) zwany również jako drzewko szczęścia jest rośliną doniczkową. Charakteryzuje się płaskimi, mięsistymi i błyszczącymi liśćmi",
-        "secondShortInfo": "Podobnie do kaktusów czy aloesu Grubosz gromadzi wode w łodydze oraz w liściach. W naturalnym środowisku może osiągnąć nawet do 4 metrów.",
-        
-        "data":{
-            "lighting": "jasne i słoneczne miejsce lecz pozbawione bezpośredniego słońca.",
-            "temperature": "najlepiej rośnie w temperaturze 20-22°C",
-            "watering": "obficie lecz rzadko, tylko wtedy gdy ziemia przeschnie, Grubosza lepiej przesuszyć niż przelać.",
-            "flowerSoil": "podłoże powinno być piaszczysto-gliniastego z dodatkiem próchnicy lecz sprawdzi się również ziemia uniwersalna.",
-            "fertilizer": "grubosza nawozimy umiarkowanie, wiosną nawozem długodziałającym.",
-            "air": "lubią suche powietrze, nie należy zraszać liści"
+    "rosliny":{
+        "grubosz":{
+            "name": "Grubosz",
+            "firstShortInfo": "Grubosz jajowaty (Crassula ovata) zwany również jako drzewko szczęścia jest rośliną doniczkową. Charakteryzuje się płaskimi, mięsistymi i błyszczącymi liśćmi.",
+            "secondShortInfo": "Podobnie do kaktusów czy aloesu Grubosz gromadzi wode w łodydze oraz w liściach. W naturalnym środowisku może osiągnąć nawet do 4 metrów.",
+            
+            "data":{
+                "lighting": "jasne i słoneczne miejsce lecz pozbawione bezpośredniego słońca,",
+                "temperature": "najlepiej rośnie w temperaturze 20-22°C,",
+                "watering": "obficie lecz rzadko, tylko wtedy gdy ziemia przeschnie, Grubosza lepiej przesuszyć niż przelać,",
+                "flowerSoil": "podłoże powinno być piaszczysto-gliniastego z dodatkiem próchnicy lecz sprawdzi się również ziemia uniwersalna,",
+                "fertilizer": "grubosza nawozimy umiarkowanie, wiosną nawozem długodziałającym,",
+                "air": "lubią suche powietrze, nie należy zraszać liści."
+            },
+            "curiosities":{
+                "one": "Wszystkie określenia, nazwy Drzewka Szczęścia na całym świecie są kojarzone z pomyślnością, szczęściem lub fortuną, np. angielskie Money Plant lub Dollar Plant. Na Dalekim Wschodzie określana jako Jade Plant (jade to amulet przypominający liście grubosza).",
+                "two": "Grubosz wymaga przycinania. Przycinanie powinno być uzależnione od wysokości jaką chcemy osiągnąć, lecz należy pamiętać, że przycinanie grubosza wpływa na zagęszczenie liści.",
+                "there": "Pochodzi z terenów Afryki Południowej."
+            }
         },
-        "curiosities":{
-            "one": "Wszystkie określenia, nazwy Drzewka Szczęścia na całym świecie są kojarzone z pomyślnością, szczęściem lub fortuną, np. angielskie Money Plant lub Dollar Plant. Na Dalekim Wschodzie określana jako Jade Plant (jade to amulet przypominający liście grubosza).",
-            "two": "Grubosz wymaga przycinania. Przycinanie powinno być uzależnione od wysokości jaką chcemy osiągnąć, lecz należy pamiętać, że przycinanie grubosza wpływa na zagęszczenie liści.",
-            "there": "Pochodzi z terenów Afryki Południowej."
+        "fikus":{
+            "name": "Fikus",
+            "firstShortInfo": "Fikus microcarpa, inaczej Ficus tępy zwany również jako Ficus ginseng charakteryzuje się korzeniami powietrznymi oraz zgrubiałymi pędami pokrymi brunatną, czasami pękającą korą na których rozwijają się cienkie gałązki, pokryte ciemnozielonymi, błyszczącymi liśćmi.",
+            "secondShortInfo": "Ficus ginseng prezentuje się bardzo efektownie i może swym oryginalnym wyglądem konkurować z typowymi drzewkami bonsai, choć Ficus nie jest typowym bonsai, lecz rośliną na nie stylizowaną.",
+            "data":{
+                "lighting": "lubi jasne miejsca lecz osłonięte przed bezpośrednim promieniami słońca,",
+                "temperature": "temperatura w okolicach ok. 20°C, roślina bardzo źle znosi wahania temperatur, nie toleruje również przeciągów,",
+                "watering": "systematyczne lecz umiarkowane do dwóch razy w tygodniu warto go też zraszać. Ficus nie znosi zbyt mokrego, ani suchego podłoża. Ziemia w doniczce powinna być lekko wilgotna. Zimą gdy aktywność rośliny spada wystarczy podlewać raz w tygodniu,",
+                "flowerSoil": "roślina lubi żyzną glebę, lecz nie musi ona być specjalna wystarczy uniwersalna ziemia do kwiatów lub ziemia próchniczno - torfowa o odczynie lekko kwaśnym,",
+                "fertilizer": "w okresie wiosennym można dodać wieloskładnikowego nawozu,",
+                "air": "ficus podwyższoną wilgotność powietrza,",
+                "care": "ficusa najlepiej co 2 tygodnie zrosić oraz przetrzeć liście z kurzu. Ficus nie lubi również zmiany miejsca. Doniczka nie powinna być przekręcana, ani też ustawiana w innym miejscu."
+            },
+            "curiosities":{
+                "one": "Ficus jest rośliną prostą w uprawie, stare chińskie przysłowie mówi: 'Jeśli zabiłeś Fikusa to musiało ci na tym zależeć'.",
+                "two": "Gdy Fikus gubi liście ma niewłaściwe warunki, nie należy się tym jednak przejmować gdy zaczniesz znowu o niego dbać, powinien szybko wrócić do formy.",
+                "there": "Jest bardzo odporny na mocne formowanie i przycinanie. Przycinanie pędów powinno być regularne i może odbywać się przez cały rok.",
+                "four": "Zalicza się do rodzaju figowców. Naturalne obszary występowania obejmują Australię, Azję, a także kraje zaliczające się do Zachodnich wybrzeży Afryki."
+            }
         }
     },
-    "fikus":{
-        "name": "Fikus",
-        "firstShortInfo": "Fikus microcarpa, inaczej Ficus tępy zwany również jako Ficus ginseng charakteryzuje się korzeniami powietrznymi oraz zgrubiałymi pędami pokrymi brunatną, czasami pękającą korą na których rozwijają się cienkie gałązki, pokryte ciemnozielonymi, błyszczącymi liśćmi.",
-        "secondShortInfo": "Ficus ginseng prezentuje się bardzo efektownie i może swym oryginalnym wyglądem konkurować z typowymi drzewkami bonsai, choć Ficus nie jest typowym bonsai, lecz rośliną na nie stylizowaną.",
-        "data":{
-            "lighting": "lubi jasne miejsca lecz osłonięte przed bezpośrednim promieniami słońca.",
-            "temperature": "temperatura w okolicach ok. 20°C, roślina bardzo źle znosi wahania temperatur, nie toleruje również przeciągów.",
-            "watering": "systematyczne lecz umiarkowane do dwóch razy w tygodniu warto go też zraszać. Ficus nie znosi zbyt mokrego, ani suchego podłoża. Ziemia w doniczce powinna być lekko wilgotna. Zimą gdy aktywność rośliny spada wystarczy podlewać raz w tygodniu.",
-            "flowerSoil": "roślina lubi żyzną glebę, lecz nie musi ona być specjalna wystarczy uniwersalna ziemia do kwiatów lub ziemia próchniczno - torfowa o odczynie lekko kwaśnym.",
-            "fertilizer": "w okresie wiosennym można dodać wieloskładnikowego nawozu.",
-            "air": "ficus podwyższoną wilgotność powietrza.",
-            "care": "ficusa najlepiej co 2 tygodnie zrosić oraz przetrzeć liście z kurzu. Ficus nie lubi również zmiany miejsca. Doniczka nie powinna być przekręcana, ani też ustawiana w innym miejscu."
+    "kaktusy":{
+        "opuncja":{
+            "name": "Opuncja",
+            "firstShortInfo": "Opuncja (Opuntia) charakteryzuje się spłaszczonymi okrągłymi pędami, występują odmiany z kolcami lub bez. Przy odrobinie szczęścia można natrafić na kwitnącą odmianę.",
+            "secondShortInfo": "Występuje około 150 gatunków opuncji, Opuncja figowa jako jeden z gatunków uprawiana jest głównie w celu pozyskiwania owoców zwana również jako Figa Indyjska.",
+            
+            "data":{
+                "lighting": "opuncja lubi miejsca słoneczne,",
+                "temperature": "temperatura nie może spadać poniżej 15 stopni,",
+                "watering": "powinien być podlewany bardzo oszczędnie gdy ziemia w doniczce stanie się całkiem sucha,",
+                "flowerSoil": "Opuncje lubią podłoże lekkie, piaszczyste. Nadaje się specjalistyczne podłoże do kaktusów i sukulentów,",
+                "fertilizer": "Nawozić można na wiosnę specjalistycznym nawozem do kaktusów,",
+                "care": "opuncja nie jest szczególnie wymagająca w hodowli, wystarczy jej słoneczne miejsce, niezbyt częste podlewanie."
+            },
+            "curiosities":{
+                "one": "Pochodzi z Ameryki Północnej i Południowej.",
+                "two": "Na skutek szybkiego rozrastania się i dziczenia Opuncje a Australi i Afryce uznawane są często za chwasty.",
+                "there": "W procesie ewolucji liście przekształciły się w ciernie w celu zmniejszenia zużycia wody."
+            }
         },
-        "curiosities":{
-            "one": "Ficus jest rośliną prostą w uprawie, stare chińskie przysłowie mówi: 'Jeśli zabiłeś Fikusa to musiało ci na tym zależeć'",
-            "two": "Gdy Fikus gubi liście ma niewłaściwe warunki, nie należy się tym jednak przejmować gdy zaczniesz znowu o niego dbać, powinien szybko wrócić do formy.",
-            "there": "Jest bardzo odporny na mocne formowanie i przycinanie. Przycinanie pędów powinno być regularne i może odbywać się przez cały rok.",
-            "four": "Zalicza się do rodzaju figowców. Naturalne obszary występowania obejmują Australię, Azję, a także kraje zaliczające się do Zachodnich wybrzeży Afryki."
+        "szczepiony":{
+            "name": "Kaktys Szczepiony",
+            "firstShortInfo": "Kaktus szczepiony czy kaktus z kolorową główką nie mogą funkcjonować samodzielnie ponieważ nie potrafią przeprowadzać fotosyntezy, zaszczepione na innym kaktusie zachowują się jak pasożyt czerpiąc pożywienie z zielonego trzonka.",
+            "secondShortInfo": "Ze względu na swoją atrakcyjność szybko zaczęto je uprawiać i tworzyć coraz ciekawsze i bardziej oryginalne formy.",
+            
+            "data":{
+                "lighting": "nie może rosnąć w pełnym słońcu ponieważ może ulec poparzeniu. Należy zapewnić mu jasne miejsca lecz osłonięte przed bezpośrednim promieniami słońca,",
+                "watering": "powinien być podlewany bardzo oszczędnie, a w okresie zimowym prawie wcale,",
+                "fertilizer": "również bardzo oszczędnie, a w okresie zimowym wcale,",
+                "care": "poprawny sposób pielęgnacji zależy od rodzaju podkładki."
+            },
+            "curiosities":{
+                "one": "Powstał przypadkiem w Japońskiej hodowli.",
+                "two": "Kolorowe kaktusy nie wytwarzają chlorofilu (zielone barwnika), dlatego ujawniają się w nich inne kolory, które normalnie są maskowane przez chlorofil."
+            }
         }
     },
-    "opuncja":{
-        "name": "Opuncja",
-        "firstShortInfo": "Opuncja (Opuntia) charakteryzuje się spłaszczonymi okrągłymi pędami, występują odmiany z kolcami lub bez. Przy odrobinie szczęścia można natrafić na kwitnącą odmianę.",
-        "secondShortInfo": "Występuje około 150 gatunków opuncji, Opuncja figowa jako jeden z gatunków uprawiana jest głównie w celu pozyskiwania owoców zwana również jako Figa Indyjska.",
-        
-        "data":{
-            "lighting": "Opuncja lubi miejsca słoneczne.",
-            "temperature": "temperatura nie może spadać poniżej 15 stopni.",
-            "watering": "powinien być podlewany bardzo oszczędnie gdy ziemia w doniczce stanie się całkiem sucha.",
-            "flowerSoil": "Opuncje lubią podłoże lekkie, piaszczyste. Nadaje się specjalistyczne podłoże do kaktusów i sukulentów.",
-            "fertilizer": "Nawozić można na wiosnę specjalistycznym nawozem do kaktusów",
-            "care": "Opuncja nie jest szczególnie wymagająca w hodowli, wystarczy jej słoneczne miejsce, niezbyt częste podlewanie"
+    "sukulenty":{
+        "aloes":{
+            "name": "Aloes",
+            "firstShortInfo": "Aloe vera, Aloes zwyczajny lub aloes barbadoski jedna z najpopularniejszych odmian aloesu, wykorzystywany w medycynie i kosmetyce. Istnieje prawie 300 gatunków lecz tylko kilkanaście ma właściwości lecznicze. Charakteryzuje się grubymi mięsistymi liśćmi o mieczowaty kształcie na brzegach których wyrastają kolce. Aloes należy do sukulentów nie jest kaktusem.",
+            
+            "data":{
+                "lighting": "lubi nasłonecznione miejsca, potrzebuje dużo światła,",
+                "temperature": "zimą 8–10 st. C, latem 20–25 st. C,",
+                "watering": "w okresie od wiosny do jesieni aloes należy regularnie lecz umiarkowanie podlewać, ponieważ aloes nie lubi nadmiaru wody, ziemia w doniczce nie powinna być stale mokra, nawadniamy dopiero, gdy lekko przeschnie. Zimą można ograniczyć podlewanie,",
+                "flowerSoil": "Specjalistyczna do kaktusów i sukulentów, lekko kwaśne, piaszczyste,",
+                "fertilizer": "Co dwa tygodnie aloes należy nawozić płynnym nawozem. Zimą zaprzestać nawożenia,",
+                "care": "aloes z reguły nie choruje oraz nie wymaga szczególnych zabiegów pielęgnacyjnych."
+            },
+            "curiosities":{
+                "one": "Aloes pochodzi z terenów Afryki i Azji Mniejszej,",
+                "two": "Jego właściwości były znane już wiele lat przed naszą erą. Afrykańskie plemiaona używły go jako ochrony przed słońcem,",
+                "there": "Znany i doceniany jako lek na wszelakie dolegliwości rozprzestrzenił się do Grecji, Rzymu a nawet na tereny Dalekiego Wschodu,",
+                "four": "Aloes zawiera w sobie witaminy A, C, E oraz B, sole mineralne, kwasy organiczne, stymulatory biogenne oraz wiele innych substancji dzięki którym posiada właściwości bakteriobójcze, regenerujące błonę śluzową i skórę, przeciwzapalne oraz pobudzające układ odpornościowy."
+            }
         },
-        "curiosities":{
-            "one": "Pochodzi z Ameryki Północnej i Południowej.",
-            "two": "Na skutek szybkiego rozrastania się i dziczenia Opuncje a Australi i Afryce uznawane są często za chwasty.",
-            "there": "W procesie ewolucji liście przekształciły się w ciernie w celu zmniejszenia zużycia wody"
+        "sansewieria":{
+            "name": "Sansewieria",
+            "firstShortInfo": "Sansewieria cylindryczna (Sansevieria cylindrica) zwana również jako wężowica jest rośliną bardzo szybko rozwijającą się. Charakteryzują ją liście przypominające wzniesione szable, mają barwę zieloną a czasami na ich powierzchni pojawiają się szarobiałe paski. Całkowita długość liści może osiągnąć nawet 2 metry.",
+            "secondShortInfo": "Sansewieria zwana jest rośliną z żelaza ze względu na bardzą wysoką odporność na warunki jej hodowania. Bardzo dobrze odnajduje się do trudnych warunkach, jest odporna na suche powietrze, niedobór wody oraz mała ilość światła dziennego.",
+            
+            "data":{
+                "lighting": "Roślina ma duża tolerancje na brak światła dlatego można ją hodować w ciemnych pomieszczeniach,",
+                "temperature": "Optymalna temperatura to ok. 22-24°C latem i ok. 18-20°C,",
+                "watering": "podlewać rzadko i umiarkowanie,",
+                "flowerSoil": "lekkie neutralne bądź zasadowe podłoże,",
+                "air": "wytrzymują niską wilgotność powietrza,",
+                "care": "można zasilać je nawozem uniwersalnym dla kaktusów lecz nie zbyt często."
+            },
+            "curiosities":{
+                "one": "Naturalnie występuje w obszarach południowo-zachodniej Afryki, w tropikalnej części Azji oraz na Półwyspie Arabskim.",
+                "two": "Liście są podatne na modelowanie, wielokrotnie można je spotkać zaplatane nawet w warkocze."
+            }
         }
     }
+    
+    
 }

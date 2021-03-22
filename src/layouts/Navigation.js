@@ -3,12 +3,12 @@ import {NavLink} from 'react-router-dom'
 import '../style/Navigation.css';
 
 
-class NavigationOne extends React.Component {
+class Navigation extends React.Component {
     state = {  }
     render() { 
         return ( 
           <>
-            <ul className="frirstFloor">
+            <ul>
                 <li></li>
                 <li><NavLink to="/" exact>Home</NavLink></li>
                 <li><NavLink to="/rosliny">Rośliny</NavLink></li>
@@ -20,4 +20,4 @@ class NavigationOne extends React.Component {
     }
 }
  
-export default NavigationOne ;
+export default Navigation ;
