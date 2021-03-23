@@ -1,41 +1,22 @@
-import '../style/App.css';
-import React from 'react'
-import {BrowserRouter as Router} from 'react-router-dom';
+import "../style/App.css";
+
+import { BrowserRouter as Router } from "react-router-dom";
+
 import Navigation from "./Navigation";
 import Logo from "./Logo";
 import Main from "./Main";
 import Footer from "./Footer";
 
-class App extends React.Component {
-  state = {
-
-  }
-
-  render() { 
-    return ( 
-      <Router>
+const App = () => {
+  return (
+    <Router>
       <div className="app">
-        
-        <nav>
-          {<Navigation />}
-        </nav>
-
-        <div className="logo">
-          {<Logo />}
-        </div>
-
-        <main>
-          {<Main />}
-        </main>
-
-        <footer>
-          {<Footer />}
-        </footer>
+        <nav> {<Navigation />}</nav>
+        <div className="logo">{<Logo />}</div>
+        <main>{<Main />}</main>
+        <footer>{<Footer />}</footer>
       </div>
-      </Router>
-
-     );
-  }
-}
- 
+    </Router>
+  );
+};
 export default App;

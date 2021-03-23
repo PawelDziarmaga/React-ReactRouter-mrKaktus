@@ -1,17 +1,7 @@
-import React from 'react'
-import '../style/Footer.css';
+import "../style/Footer.css";
 
-class Footer extends React.Component {
-    state = {  }
-    render() { 
-        return ( 
-           
-           <>
-           Stopka
-           </>
-          
-         );
-    }
-}
- 
+const Footer = () => {
+  return <>Stopka</>;
+};
+
 export default Footer;

@@ -1,27 +1,30 @@
-import React from 'react'
-import API from "../data.json"
+import API from "../data.json";
 
-class Opuncja extends React.Component {
-    state = {  }
-    render() { 
-        const {name, firstShortInfo, secondShortInfo} = API.kaktusy.opuncja
-        const {lighting, temperature, watering, flowerSoil, fertilizer, air} = API.kaktusy.opuncja.data
-        return ( 
-           <>
-           <h1>{name}</h1>
-           <p>{firstShortInfo}</p>
-           <p>{secondShortInfo}</p>
-           <ul>
-               <li>Oświetlenie - {lighting}</li>
-               <li>Temperatura - {temperature}</li>
-               <li>Podlewanie - {watering}</li>
-               <li>Ziemia - {flowerSoil}</li>
-               <li>Nawóz - {fertilizer}</li>
-               <li>Wilgotność powietrza - {air}</li>
-           </ul>
-           </>
-         );
-    }
-}
- 
+const Opuncja = () => {
+  const { name, firstShortInfo, secondShortInfo } = API.kaktusy.opuncja;
+  const {
+    lighting,
+    temperature,
+    watering,
+    flowerSoil,
+    fertilizer,
+    air,
+  } = API.kaktusy.opuncja.data;
+  return (
+    <>
+      <h1>{name}</h1>
+      <p>{firstShortInfo}</p>
+      <p>{secondShortInfo}</p>
+      <ul>
+        <li>Oświetlenie - {lighting}</li>
+        <li>Temperatura - {temperature}</li>
+        <li>Podlewanie - {watering}</li>
+        <li>Ziemia - {flowerSoil}</li>
+        <li>Nawóz - {fertilizer}</li>
+        <li>Wilgotność powietrza - {air}</li>
+      </ul>
+    </>
+  );
+};
+
 export default Opuncja;
