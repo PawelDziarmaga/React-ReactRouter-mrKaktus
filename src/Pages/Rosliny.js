@@ -9,7 +9,7 @@ const Rosliny = () => {
   return (
     <>
       <div className="listPage">
-        <h1>Rosliny</h1>
+        <h1>Rosliny :</h1>
         <NavLink to="/rosliny/grubosz">
           <div className="box">
             <h2>{API.rosliny.grubosz.name}</h2>

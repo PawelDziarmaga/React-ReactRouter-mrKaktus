@@ -10,7 +10,7 @@ const Kaktusy = () => {
   return (
     <>
       <div className="listPage">
-        <h1>Kaktusy</h1>
+        <h1>Kaktusy :</h1>
         <NavLink to="/kaktusy/szczepiony">
           <div className="box">
             <h2>{API.kaktusy.szczepiony.name}</h2>

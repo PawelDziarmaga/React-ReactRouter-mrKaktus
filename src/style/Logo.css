@@ -1,8 +1,8 @@
-div.logo img:first-child{
-    height: 20vh;
-    
+div.logo img:first-child {
+  max-width: 10vw;
+  max-height: 10vh;
 }
-div.logo img{
-    height: 10vh;
-    padding: 1vh 10vh;
+div.logo img {
+  max-width: 20vw;
+  max-height: 20vh;
 }

@@ -1,46 +1,79 @@
-div.listPage h1{
-    margin: 5vh 0;
-    
+div.listPage h1 {
+  margin: 5vh 20vw;
+  color: #323232;
+  font-size: 6vh;
+  width: fit-content;
+  border-bottom: 4px solid #99ddcc;
 }
-div.listPage div.box{
-    
-    padding: 5vh 15vw;
-    text-align: justify;
-    display: flex;
-    justIfy-content: space-around;
-    align-items: center;
-    cursor: pointer;
-    transition: 0.2s;
-    
-}
-div.listPage div.box{
-    border-bottom: 2px dashed lightgrey;
-}
-div.listPage div.box:hover{
-    transform: scale(1.03);
-}
-div.listPage div.box h2{
-    flex-grow: 1;
-    width: 10vw;
-    
-}
-div.listPage a{
-    text-decoration: none;
-    color: #323232;
+div.listPage div.box {
+  padding: 5vh 15vw;
+  text-align: justify;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  cursor: pointer;
+  border-bottom: 2px dashed lightgrey;
+  transition: 0.2s;
 }
 
-div.listPage div.box img{
-    flex-grow: 1;
-    height: 20vh;
-    padding: 0 5vw;
-    margin: 0 5vw;
-    border-right: 2px dashed lightgrey;
-    border-left: 2px dashed lightgrey;
+div.listPage div.box:hover {
+  transform: scale(1.03);
 }
-div.listPage div.box p{
-    flex-grow: 1;
-    width: 50vw;
+div.listPage div.box h2 {
+  flex-grow: 1;
+  width: 10vw;
 }
-div.listPage div.box p span{
-    margin: 10vh 0 0 40vw;
+div.listPage a {
+  text-decoration: none;
+  color: #323232;
+}
+
+div.listPage div.box img {
+  flex-grow: 1;
+  height: 20vh;
+  padding: 0 5vw;
+  margin: 0 5vw;
+  border-right: 2px dashed lightgrey;
+  border-left: 2px dashed lightgrey;
+}
+div.listPage div.box p {
+  flex-grow: 1;
+  width: 50vw;
+}
+div.listPage div.box p span {
+  margin: 10vh 0 0 40vw;
+}
+@media (max-width: 1000px) {
+  div.listPage h1 {
+    margin: 5vh 20vw;
+    font-size: 4vh;
+  }
+  div.listPage div.box {
+    padding: 5vh 15vw;
+  }
+  div.listPage div.box h2 {
+    margin: 0 4vw;
+    font-size: 3vw;
+  }
+
+  div.listPage div.box img {
+    height: 10vh;
+    padding: 0 3vw;
+    margin: 0 3vw;
+  }
+}
+@media (max-width: 700px) {
+  div.listPage h1 {
+    margin: 2vh 10vw;
+    font-size: 4vw;
+  }
+  div.listPage div.box {
+    padding: 2vh 15vw;
+  }
+  div.listPage div.box h2 {
+    font-size: 2vw;
+  }
+  div.listPage div.box p {
+    font-size: 2vw;
+  }
 }

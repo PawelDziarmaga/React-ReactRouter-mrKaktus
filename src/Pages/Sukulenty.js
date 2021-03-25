@@ -9,7 +9,7 @@ const Sukulenty = () => {
   return (
     <>
       <div className="listPage">
-        <h1>Sukulenty</h1>
+        <h1>Sukulenty :</h1>
         <NavLink to="/sukulenty/aloes">
           <div className="box">
             <h2>{API.sukulenty.aloes.name}</h2>
