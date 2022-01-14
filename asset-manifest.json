@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-ReactRouter-mrKaktus/static/css/main.7b162990.chunk.css",
+    "main.js": "/React-ReactRouter-mrKaktus/static/js/main.934533e4.chunk.js",
+    "main.js.map": "/React-ReactRouter-mrKaktus/static/js/main.934533e4.chunk.js.map",
+    "runtime-main.js": "/React-ReactRouter-mrKaktus/static/js/runtime-main.385cf49a.js",
+    "runtime-main.js.map": "/React-ReactRouter-mrKaktus/static/js/runtime-main.385cf49a.js.map",
+    "static/js/2.a674f77b.chunk.js": "/React-ReactRouter-mrKaktus/static/js/2.a674f77b.chunk.js",
+    "static/js/2.a674f77b.chunk.js.map": "/React-ReactRouter-mrKaktus/static/js/2.a674f77b.chunk.js.map",
+    "index.html": "/React-ReactRouter-mrKaktus/index.html",
+    "static/css/main.7b162990.chunk.css.map": "/React-ReactRouter-mrKaktus/static/css/main.7b162990.chunk.css.map",
+    "static/js/2.a674f77b.chunk.js.LICENSE.txt": "/React-ReactRouter-mrKaktus/static/js/2.a674f77b.chunk.js.LICENSE.txt",
+    "static/media/Aloes.a82b7abf.jpg": "/React-ReactRouter-mrKaktus/static/media/Aloes.a82b7abf.jpg",
+    "static/media/AloesMini.18108d50.png": "/React-ReactRouter-mrKaktus/static/media/AloesMini.18108d50.png",
+    "static/media/FicusMini.5c1e8e80.png": "/React-ReactRouter-mrKaktus/static/media/FicusMini.5c1e8e80.png",
+    "static/media/Fikus.5578b933.jpg": "/React-ReactRouter-mrKaktus/static/media/Fikus.5578b933.jpg",
+    "static/media/Grubosz.a11e4c50.png": "/React-ReactRouter-mrKaktus/static/media/Grubosz.a11e4c50.png",
+    "static/media/GruboszMini.a11e4c50.png": "/React-ReactRouter-mrKaktus/static/media/GruboszMini.a11e4c50.png",
+    "static/media/Logo.d4c6f25c.png": "/React-ReactRouter-mrKaktus/static/media/Logo.d4c6f25c.png",
+    "static/media/Nazwa.f0a448c3.png": "/React-ReactRouter-mrKaktus/static/media/Nazwa.f0a448c3.png",
+    "static/media/Opuntia.0cc8e641.png": "/React-ReactRouter-mrKaktus/static/media/Opuntia.0cc8e641.png",
+    "static/media/OpuntiaMini.0cc8e641.png": "/React-ReactRouter-mrKaktus/static/media/OpuntiaMini.0cc8e641.png",
+    "static/media/Sansewieria.2c1ed20a.png": "/React-ReactRouter-mrKaktus/static/media/Sansewieria.2c1ed20a.png",
+    "static/media/SansewieriaMini.2c1ed20a.png": "/React-ReactRouter-mrKaktus/static/media/SansewieriaMini.2c1ed20a.png",
+    "static/media/Szczepiony.ddfe964b.jpg": "/React-ReactRouter-mrKaktus/static/media/Szczepiony.ddfe964b.jpg",
+    "static/media/SzczepionyMini.fb939d8f.png": "/React-ReactRouter-mrKaktus/static/media/SzczepionyMini.fb939d8f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.385cf49a.js",
+    "static/js/2.a674f77b.chunk.js",
+    "static/css/main.7b162990.chunk.css",
+    "static/js/main.934533e4.chunk.js"
+  ]
+}
